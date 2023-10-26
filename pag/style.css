@@ -1,0 +1,12 @@
+body {
+    background-image: url(../img/imaggfe.png);
+    background-color: red;
+}
+
+.pino {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    border: 5px;
+    border-radius: 5px;
+    border-style: dotted;
+}
